@@ -14,7 +14,3 @@ class Pizza:
         print(", ".join(self.ingredients))
 
         print()
-
-
-# MAIN
-
